@@ -3,6 +3,7 @@
 maxrefdes117 module mount to MSP430FR4133 
 
 ## Usage
+* flash maxrefdes117.ino with Energia
 * MAXREFDES117 power by 3.3V
 * 10k Ohm pull-up resistor on SDA and SCL connection
 
