@@ -1,6 +1,11 @@
 # maxrefdes117-energia
 ## Description
-maxrefdes117 module mount to MSP430FR4133 
+Heart-Rate and Pulse-Oximetry Monitor
+
+## Component
+* maxrefdes117
+* MSP430FR4133 launchpad
+* 10k Ohm resistor
 
 ## Usage
 * flash maxrefdes117.ino with Energia
